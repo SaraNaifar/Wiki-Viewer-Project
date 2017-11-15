@@ -1,11 +1,16 @@
 # Wiki Viewer
 
 this is a web appication where you can pull articles displayed in card with the Media Wiki API .
-#Project brief 
+
+# Project brief 
 * This is a small web application wich does the following:
 - get a random article by clicking the linked title "RANDOM ARTICLE " or the icon .
 -type a theme u want to kow more about it in wikipedia .
 -after hiting the enter key 10 card are displayed with a linked image taking u to the original article in wikipedia .
+![Screen shot app](/images/screenshot)
+
+
+
 
 ### Prerequisites
 
@@ -54,5 +59,5 @@ Give an example
 
 ## what i learned
 
-*manipulation of  the media wiki API 
 *get used to develop a call ajax and fetch json data  
+*manipulation of  the media wiki API  
