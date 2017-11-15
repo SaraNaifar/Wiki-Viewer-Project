@@ -32,23 +32,6 @@ libs/bootstrap4.0.0 + tether-1.3.3  ; scripts/script.js + jquery-3.2.1.min.js ; 
 ```
 
 
-End with an example of getting some data out of the system or using it for a little demo
-
-
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
 ## Built With
 
 * [jquery](https://jquery.com/) - The web framework 
