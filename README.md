@@ -7,9 +7,13 @@ this is a web appication where you can pull articles displayed in card with the 
 - get a random article by clicking the linked title "RANDOM ARTICLE " or the icon .
 -type a theme u want to kow more about it in wikipedia .
 -after hiting the enter key 10 card are displayed with a linked image taking u to the original article in wikipedia .
-![Screen shot app](/images/screenshot)
 
 
+
+<p align="center">
+  <img src="images/screenshot.png" />
+
+</p>
 
 
 ### Prerequisites
